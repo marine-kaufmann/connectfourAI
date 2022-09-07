@@ -1,0 +1,63 @@
+heuristic h2
+------------
+This heuristic ...
+
+
+
+
+puzzles with 18-move optimal solutions
+--------------------------------------
+algorithm              num. solved    avg. moves    avg. states tested
+----------------------------------------------------------------------
+Greedy (heuristic h1)       
+Greedy (heuristic h2)      10          89.8                374.9
+# Greedy with any other heuristics 
+
+A* (heuristic h1)           10          18.0                  1602.0 
+A* (heuristic h2)           10          18.0                576
+# Greedy with any other heuristics
+
+
+
+
+puzzles with 21-move optimal solutions
+--------------------------------------
+algorithm              num. solved    avg. moves    avg. states tested
+----------------------------------------------------------------------
+Greedy (heuristic h1) 
+Greedy (heuristic h2)      10          113.0           428.9
+# Greedy with any other heuristics
+
+A* (heuristic h1)           10          21              6301.7
+A* (heuristic h2)            10         21.0            1974.6 
+# Greedy with any other heuristics
+
+
+
+
+puzzles with 24-move optimal solutions
+--------------------------------------
+algorithm              num. solved    avg. moves    avg. states tested
+----------------------------------------------------------------------
+Greedy (heuristic h1)      6            123.666         2856.166
+Greedy (heuristic h2)      10           134.4           583.9
+# Greedy with any other heuristics
+
+A* (heuristic h1)         10            24                26948.9
+A* (heuristic h2)         10           24.0              7205.2         
+# Greedy with any other heuristics
+
+
+
+
+puzzles with 27-move optimal solutions
+--------------------------------------
+algorithm              num. solved    avg. moves    avg. states tested
+----------------------------------------------------------------------
+Greedy (heuristic h1)       0               0               0
+Greedy (heuristic h2)       10          109.2           393.1
+# Greedy with any other heuristics
+
+A* (heuristic h1)           0              0                0
+A* (heuristic h2)           9           27.0            36300.666                               
+# Greedy with any other heuristics
